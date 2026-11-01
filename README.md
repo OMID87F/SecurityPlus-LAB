@@ -1,2 +1,2 @@
-# SecurityPlus-LAB
+# Security+ Lab
 > Work in progress⚠️
